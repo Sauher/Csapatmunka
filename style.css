@@ -1,7 +1,9 @@
-#mennu{
-    background-color: grey;
-    font-family: monospace;
-    font-size: 7cm;
+body{
+    column-count: 2;
+    font-family: 'Coiny', cursive;
+}
+.menu{
+    font-size: 20px;
 }
 a:link{
     color:black;
@@ -10,8 +12,6 @@ a:visited{
     color: black;
 }
 #lap{
-    text-align: right;
-    text-indent: 10cm;
 }
 ul {
     list-style-type: none;
