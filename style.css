@@ -12,3 +12,6 @@ a:visited{
 #lap{
     text-align: right;
 }
+ul {
+    list-style-type: none;
+}
