@@ -11,6 +11,7 @@ a:visited{
 }
 #lap{
     text-align: right;
+    text-indent: 10cm;
 }
 ul {
     list-style-type: none;
