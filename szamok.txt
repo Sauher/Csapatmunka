@@ -1,2 +1,3 @@
 Befejeztem a szamok kikeresését.
-Elveszett az egész szóval újra kellett kezdenem.
+Elveszett az egész szóval újra kellett kezdenem. 04.20
+50-ig jutottam a leggyakoribb szamokkal.
