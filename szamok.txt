@@ -1,1 +1,1 @@
-
+Befejeztem a szamok kikeresését.
