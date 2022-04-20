@@ -1,9 +1,10 @@
 body{
-    column-count: 2;
     font-family: 'Coiny', cursive;
-}
+    }
 .menu{
     font-size: 20px;
+    float: left;
+    width: 50%;
 }
 a:link{
     color:black;
@@ -18,4 +19,7 @@ ul {
 }
 h1 {
     font-family: 'Courgette', cursive;
+}
+.golyoszoveg{
+    font-size: 30px;
 }
