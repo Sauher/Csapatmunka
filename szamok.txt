@@ -1,1 +1,2 @@
 Befejeztem a szamok kikeresését.
+Elveszett az egész szóval újra kellett kezdenem.
