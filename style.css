@@ -1,6 +1,6 @@
 body{
     font-family: 'Coiny', cursive;
-    }
+}
 .menu{
     font-size: 20px;
     float: left;
@@ -11,8 +11,6 @@ a:link{
 }
 a:visited{
     color: black;
-}
-#lap{
 }
 ul {
     list-style-type: none;
