@@ -2,9 +2,10 @@ body{
     font-family: 'Coiny', cursive;
 }
 .menu{
-    font-size: 1em;
+    font-size: 1.5em;
     float: left;
     width: 50%;
+    background-color: grey;
 }
 a:link{
     color:black;
@@ -14,6 +15,7 @@ a:visited{
 }
 ul {
     list-style-type: none;
+    background-color: grey;
 }
 h1 {
     font-family: 'Courgette', cursive;
@@ -24,4 +26,8 @@ h1 {
 .lap{
     float: right;
     width: 50%;
+    background-color: white;
+}
+#zoldlottokor {
+    background-image: url(https://github.com/green-fox-academy/http-info-syllabus/blob/master/assets/hatter.jpg?raw=true);
 }
