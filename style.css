@@ -2,7 +2,7 @@ body{
     font-family: 'Coiny', cursive;
 }
 .menu{
-    font-size: 1.5em;
+    font-size: 1.2em;
     float: left;
     width: 25%;
     background-color: grey;
@@ -29,5 +29,8 @@ h1 {
     background-color: white;
 }
 #zoldlottokor {
+  height:312px;
+  width:312px;
+  background-size:27.35em;
     background-image: url(https://github.com/green-fox-academy/http-info-syllabus/blob/master/assets/hatter.jpg?raw=true);
 }
