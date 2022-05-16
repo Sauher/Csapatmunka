@@ -1,21 +1,27 @@
 body{
     font-family: 'Coiny', cursive;
 }
-.menu{
-    font-size: 1.2em;
-    float: left;
-    width: 25%;
-    background-color: grey;
+li {
+    list-style-type: none;
+    line-height: 30px;
+    border-bottom: rgb(0, 0, 0);
 }
-a:link{
-    color:black;
-}
-a:visited{
-    color: black;
+
+ul li:last-child{
+    border-bottom: none
 }
 ul {
-    list-style-type: none;
-    background-color: grey;
+    border-radius: 15px;
+
+}
+
+.ul, a {
+    color: rgb(255, 255, 255);
+}
+.menu {
+    float: left;
+    background-color: rgb(56, 55, 55);
+    width: 300px;
 }
 h1 {
     font-family: 'Courgette', cursive;
@@ -29,9 +35,9 @@ h1 {
     background-color: white;
 }
 #zoldlottokor {
-  height:312px;
-  width:312px;
-  background-size:27.35em;
+  height:300px;
+  width:300px;
+  background-size:28.4em;
     background-image: url(https://github.com/green-fox-academy/http-info-syllabus/blob/master/assets/hatter.jpg?raw=true);
 }
 
