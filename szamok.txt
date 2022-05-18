@@ -2,3 +2,5 @@ Befejeztem a szamok kikeresését.
 Elveszett az egész szóval újra kellett kezdenem. 04.20
 50-ig jutottam a leggyakoribb szamokkal.
 Elkezdtem kikeresni a legkisebb összegű számsorokst.
+120 ig jutottam
+Végig értem a lagnagyobb összegű számok kiszámolásával.
