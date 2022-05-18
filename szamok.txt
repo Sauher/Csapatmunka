@@ -4,3 +4,4 @@ Elveszett az egész szóval újra kellett kezdenem. 04.20
 Elkezdtem kikeresni a legkisebb összegű számsorokst.
 120 ig jutottam
 Végig értem a lagnagyobb összegű számok kiszámolásával.
+Elkezdtem kikeresni a legkisebb összeget 
