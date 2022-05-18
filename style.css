@@ -1,28 +1,40 @@
 body{
     font-family: 'Coiny', cursive;
 }
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    background-color: gray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 li {
     list-style-type: none;
     line-height: 30px;
-    border-bottom: rgb(0, 0, 0);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: auto;
+    padding-left: auto;
+    border-bottom: rgb(53, 53, 53);
+    border-bottom-style: groove;
+}
+ul{
+    text-indent: 9px;
+    padding-left: 0px;
 }
 
 ul li:last-child{
     border-bottom: none
 }
-ul {
-  border-radius: 15px;
-  list-style-type:none;
-
-}
-
 .ul, a {
     color: rgb(255, 255, 255);
 }
 .menu {
     float: left;
-    background-color: rgb(56, 55, 55);
+    background-color: rgb(78, 78, 78);
     width: 300px;
+    height: 800px;
 }
 h1 {
     font-family: 'Courgette', cursive;
@@ -31,7 +43,6 @@ h1 {
     font-size: 2.5em;
 }
 .lap{
-    float: right;
     width: 70%;
     background-color: white;
 }
