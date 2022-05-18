@@ -5,3 +5,4 @@ Elkezdtem kikeresni a legkisebb összegű számsorokst.
 120 ig jutottam
 Végig értem a lagnagyobb összegű számok kiszámolásával.
 Elkezdtem kikeresni a legkisebb összeget 
+2200/3000ig jutottam.
