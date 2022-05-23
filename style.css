@@ -34,13 +34,15 @@ ul li:last-child{
     float: left;
     background-color: rgb(78, 78, 78);
     width: 300px;
-    height: 750px;
+    height: 765px;
 }
 h1 {
     font-family: 'Courgette', cursive;
+    text-indent: 40px;
 }
 .golyoszoveg{
     font-size: 2.5em;
+    text-indent: 40px;
 }
 .lap{
     width: 70%;
@@ -64,4 +66,5 @@ h1 {
     padding-left: 1.6%;
     padding-top: 1%;
     padding-bottom: 1%;
+    margin-left: 380px;
   }
