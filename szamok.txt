@@ -12,3 +12,4 @@ A keresés eddigi eredménye:
 3. 1,9,11,19,41,-81
 Elkezdtem kikeresni a harom leghosszabb egymás után jövő számsorozatot.
 Felosztottuk ezresével a feladatot.
+316-ig jutottam a 1111-ből
