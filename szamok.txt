@@ -11,3 +11,4 @@ A keresés eddigi eredménye:
 2. 1,2,5,15,45,- 68
 3. 1,9,11,19,41,-81
 Elkezdtem kikeresni a harom leghosszabb egymás után jövő számsorozatot.
+Felosztottuk ezresével a feladatot.
