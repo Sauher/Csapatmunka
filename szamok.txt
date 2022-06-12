@@ -15,3 +15,4 @@ Felosztottuk ezresével a feladatot.
 316-ig jutottam a 1111-ből
 Elkezdtem megszerkezteni a kikeresett számok képeit.
 Megcsinaltam az előző heti és előző előtti heti számok.
+Megcsinaltam a leggyakoribb számokat.
