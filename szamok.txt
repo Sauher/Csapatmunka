@@ -13,3 +13,4 @@ A keresés eddigi eredménye:
 Elkezdtem kikeresni a harom leghosszabb egymás után jövő számsorozatot.
 Felosztottuk ezresével a feladatot.
 316-ig jutottam a 1111-ből
+Elkezdtem megszerkezteni a kikeresett számok képeit.
