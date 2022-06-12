@@ -6,11 +6,6 @@ body{
 a:link,a:visited{
     text-decoration: none;
 }
-a:hover{
-    background-color: gray;
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
 li {
     list-style-type: none;
     line-height: 30px;
