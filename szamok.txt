@@ -16,3 +16,4 @@ Felosztottuk ezresével a feladatot.
 Elkezdtem megszerkezteni a kikeresett számok képeit.
 Megcsinaltam az előző heti és előző előtti heti számok.
 Megcsinaltam a leggyakoribb számokat.
+Megcsinaltam a leghosszabb egymást követő számokat.
